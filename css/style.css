@@ -37,7 +37,7 @@ header{
 	color: var(--black);
 }
 .menu ul li a:hover{
-	color: var(--hover);
+	color: var(--purple);
 }
 .c_btn{
 	font-family: var(--rob);
